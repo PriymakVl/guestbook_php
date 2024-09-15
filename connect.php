@@ -8,3 +8,4 @@ $db_name = 'guestbook';
 
 $link = mysqli_connect($host, $user, $password, $db_name);
 
+
